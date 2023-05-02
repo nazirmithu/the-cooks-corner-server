@@ -1,0 +1,458 @@
+[
+    {
+        "id": 1,
+        "img_url": "https://example.com/img1.jpg",
+        "name": "Sakib Rahman",
+        "years_of_experience": 5,
+        "num_recipes": 50,
+        "rating": 4.5,
+        "likes": 1000,
+        "bio": "Sakib is a seasoned chef with a passion for creating delicious and healthy meals. He specializes in Bangladeshi cuisine and has won numerous awards for his unique recipes.",
+        "recipe": {
+            "name": "Chicken Curry",
+            "image_url": "https://example.com/chicken-curry.jpg",
+            "ingredients": [
+                {
+                    "name": "chicken pieces",
+                    "quantity": "1 kg"
+                },
+                {
+                    "name": "vegetable oil",
+                    "quantity": "3 tablespoons"
+                },
+                {
+                    "name": "onion, finely chopped",
+                    "quantity": "1"
+                },
+                {
+                    "name": "ginger paste",
+                    "quantity": "1 tablespoon"
+                },
+                {
+                    "name": "garlic paste",
+                    "quantity": "1 tablespoon"
+                },
+                {
+                    "name": "green chilies, slit",
+                    "quantity": "2"
+                },
+                {
+                    "name": "turmeric powder",
+                    "quantity": "1 teaspoon"
+                },
+                {
+                    "name": "cumin powder",
+                    "quantity": "1 teaspoon"
+                },
+                {
+                    "name": "coriander powder",
+                    "quantity": "1 teaspoon"
+                },
+                {
+                    "name": "chili powder",
+                    "quantity": "1 teaspoon"
+                },
+                {
+                    "name": "salt",
+                    "quantity": "1 teaspoon (or to taste)"
+                },
+                {
+                    "name": "water",
+                    "quantity": "1 cup"
+                },
+                {
+                    "name": "fresh coriander leaves, chopped",
+                    "quantity": "2 tablespoons"
+                }
+            ],
+            "cooking_method": [
+                "In a large pot or wok, heat the oil over medium-high heat. Add the chopped onion and fry until golden brown, stirring occasionally.",
+                "Add the ginger paste, garlic paste, and slit green chilies to the pot and fry for another 1-2 minutes, or until fragrant.",
+                "Add the chicken pieces to the pot and stir to coat with the onion and spice mixture.",
+                "Add the turmeric powder, cumin powder, coriander powder, chili powder, and salt to the pot and stir well to combine.",
+                "Pour in the water and bring the curry to a boil. Reduce the heat to low and simmer for 30-35 minutes, or until the chicken is cooked through and the sauce has thickened.",
+                "Garnish with chopped fresh coriander leaves before serving. Serve hot with steamed rice or flatbread."
+            ]
+        }
+    },
+    {
+        "id": 2,
+        "img_url": "https://example.com/img2.jpg",
+        "name": "Farhana Ahmed",
+        "years_of_experience": 3,
+        "num_recipes": 30,
+        "rating": 4.0,
+        "likes": 800,
+        "bio": "Farhana is a talented chef who loves to experiment with flavors and textures. She has a deep understanding of Bangladeshi spices and herbs, and her dishes are always bursting with flavor.",
+        "recipe": {
+            "name": "Chicken Curry",
+            "image_url": "https://example.com/chicken-curry.jpg",
+            "ingredients": [
+                {
+                    "name": "chicken pieces",
+                    "quantity": "1 kg"
+                },
+                {
+                    "name": "vegetable oil",
+                    "quantity": "3 tablespoons"
+                },
+                {
+                    "name": "onion, finely chopped",
+                    "quantity": "1"
+                },
+                {
+                    "name": "ginger paste",
+                    "quantity": "1 tablespoon"
+                },
+                {
+                    "name": "garlic paste",
+                    "quantity": "1 tablespoon"
+                },
+                {
+                    "name": "green chilies, slit",
+                    "quantity": "2"
+                },
+                {
+                    "name": "turmeric powder",
+                    "quantity": "1 teaspoon"
+                },
+                {
+                    "name": "cumin powder",
+                    "quantity": "1 teaspoon"
+                },
+                {
+                    "name": "coriander powder",
+                    "quantity": "1 teaspoon"
+                },
+                {
+                    "name": "chili powder",
+                    "quantity": "1 teaspoon"
+                },
+                {
+                    "name": "salt",
+                    "quantity": "1 teaspoon (or to taste)"
+                },
+                {
+                    "name": "water",
+                    "quantity": "1 cup"
+                },
+                {
+                    "name": "fresh coriander leaves, chopped",
+                    "quantity": "2 tablespoons"
+                }
+            ],
+            "cooking_method": [
+                "In a large pot or wok, heat the oil over medium-high heat. Add the chopped onion and fry until golden brown, stirring occasionally.",
+                "Add the ginger paste, garlic paste, and slit green chilies to the pot and fry for another 1-2 minutes, or until fragrant.",
+                "Add the chicken pieces to the pot and stir to coat with the onion and spice mixture.",
+                "Add the turmeric powder, cumin powder, coriander powder, chili powder, and salt to the pot and stir well to combine.",
+                "Pour in the water and bring the curry to a boil. Reduce the heat to low and simmer for 30-35 minutes, or until the chicken is cooked through and the sauce has thickened.",
+                "Garnish with chopped fresh coriander leaves before serving. Serve hot with steamed rice or flatbread."
+            ]
+        }
+    },
+    {
+        "id": 3,
+        "img_url": "https://example.com/img3.jpg",
+        "name": "Rahat Hossain",
+        "years_of_experience": 8,
+        "num_recipes": 100,
+        "rating": 4.8,
+        "likes": 1200,
+        "bio": "Rahat is a master of Bangladeshi cuisine, with years of experience in both traditional and modern cooking techniques. His dishes are a perfect blend of classic and contemporary flavors.",
+        "recipe": {
+            "name": "Chicken Curry",
+            "image_url": "https://example.com/chicken-curry.jpg",
+            "ingredients": [
+                {
+                    "name": "chicken pieces",
+                    "quantity": "1 kg"
+                },
+                {
+                    "name": "vegetable oil",
+                    "quantity": "3 tablespoons"
+                },
+                {
+                    "name": "onion, finely chopped",
+                    "quantity": "1"
+                },
+                {
+                    "name": "ginger paste",
+                    "quantity": "1 tablespoon"
+                },
+                {
+                    "name": "garlic paste",
+                    "quantity": "1 tablespoon"
+                },
+                {
+                    "name": "green chilies, slit",
+                    "quantity": "2"
+                },
+                {
+                    "name": "turmeric powder",
+                    "quantity": "1 teaspoon"
+                },
+                {
+                    "name": "cumin powder",
+                    "quantity": "1 teaspoon"
+                },
+                {
+                    "name": "coriander powder",
+                    "quantity": "1 teaspoon"
+                },
+                {
+                    "name": "chili powder",
+                    "quantity": "1 teaspoon"
+                },
+                {
+                    "name": "salt",
+                    "quantity": "1 teaspoon (or to taste)"
+                },
+                {
+                    "name": "water",
+                    "quantity": "1 cup"
+                },
+                {
+                    "name": "fresh coriander leaves, chopped",
+                    "quantity": "2 tablespoons"
+                }
+            ],
+            "cooking_method": [
+                "In a large pot or wok, heat the oil over medium-high heat. Add the chopped onion and fry until golden brown, stirring occasionally.",
+                "Add the ginger paste, garlic paste, and slit green chilies to the pot and fry for another 1-2 minutes, or until fragrant.",
+                "Add the chicken pieces to the pot and stir to coat with the onion and spice mixture.",
+                "Add the turmeric powder, cumin powder, coriander powder, chili powder, and salt to the pot and stir well to combine.",
+                "Pour in the water and bring the curry to a boil. Reduce the heat to low and simmer for 30-35 minutes, or until the chicken is cooked through and the sauce has thickened.",
+                "Garnish with chopped fresh coriander leaves before serving. Serve hot with steamed rice or flatbread."
+            ]
+        }
+    },
+    {
+        "id": 4,
+        "img_url": "https://example.com/img4.jpg",
+        "name": "Nazia Islam",
+        "years_of_experience": 2,
+        "num_recipes": 20,
+        "rating": 4.2,
+        "likes": 500,
+        "bio": "Nazia is a young and talented chef who is passionate about creating healthy and flavorful meals. She draws inspiration from both Bangladeshi and international cuisine to create unique dishes that are sure to please.",
+        "recipe": {
+            "name": "Chicken Curry",
+            "image_url": "https://example.com/chicken-curry.jpg",
+            "ingredients": [
+                {
+                    "name": "chicken pieces",
+                    "quantity": "1 kg"
+                },
+                {
+                    "name": "vegetable oil",
+                    "quantity": "3 tablespoons"
+                },
+                {
+                    "name": "onion, finely chopped",
+                    "quantity": "1"
+                },
+                {
+                    "name": "ginger paste",
+                    "quantity": "1 tablespoon"
+                },
+                {
+                    "name": "garlic paste",
+                    "quantity": "1 tablespoon"
+                },
+                {
+                    "name": "green chilies, slit",
+                    "quantity": "2"
+                },
+                {
+                    "name": "turmeric powder",
+                    "quantity": "1 teaspoon"
+                },
+                {
+                    "name": "cumin powder",
+                    "quantity": "1 teaspoon"
+                },
+                {
+                    "name": "coriander powder",
+                    "quantity": "1 teaspoon"
+                },
+                {
+                    "name": "chili powder",
+                    "quantity": "1 teaspoon"
+                },
+                {
+                    "name": "salt",
+                    "quantity": "1 teaspoon (or to taste)"
+                },
+                {
+                    "name": "water",
+                    "quantity": "1 cup"
+                },
+                {
+                    "name": "fresh coriander leaves, chopped",
+                    "quantity": "2 tablespoons"
+                }
+            ],
+            "cooking_method": [
+                "In a large pot or wok, heat the oil over medium-high heat. Add the chopped onion and fry until golden brown, stirring occasionally.",
+                "Add the ginger paste, garlic paste, and slit green chilies to the pot and fry for another 1-2 minutes, or until fragrant.",
+                "Add the chicken pieces to the pot and stir to coat with the onion and spice mixture.",
+                "Add the turmeric powder, cumin powder, coriander powder, chili powder, and salt to the pot and stir well to combine.",
+                "Pour in the water and bring the curry to a boil. Reduce the heat to low and simmer for 30-35 minutes, or until the chicken is cooked through and the sauce has thickened.",
+                "Garnish with chopped fresh coriander leaves before serving. Serve hot with steamed rice or flatbread."
+            ]
+        }
+    },
+    {
+        "id": 5,
+        "img_url": "https://example.com/img5.jpg",
+        "name": "Abdul Kader",
+        "years_of_experience": 6,
+        "num_recipes": 80,
+        "rating": 4.6,
+        "likes": 900,
+        "bio": "Abdul is a skilled chef who has honed his craft over many years. He specializes in Bangladeshi cuisine and is known for his ability to infuse traditional flavors with a modern twist.",
+        "recipe": {
+            "name": "Chicken Curry",
+            "image_url": "https://example.com/chicken-curry.jpg",
+            "ingredients": [
+                {
+                    "name": "chicken pieces",
+                    "quantity": "1 kg"
+                },
+                {
+                    "name": "vegetable oil",
+                    "quantity": "3 tablespoons"
+                },
+                {
+                    "name": "onion, finely chopped",
+                    "quantity": "1"
+                },
+                {
+                    "name": "ginger paste",
+                    "quantity": "1 tablespoon"
+                },
+                {
+                    "name": "garlic paste",
+                    "quantity": "1 tablespoon"
+                },
+                {
+                    "name": "green chilies, slit",
+                    "quantity": "2"
+                },
+                {
+                    "name": "turmeric powder",
+                    "quantity": "1 teaspoon"
+                },
+                {
+                    "name": "cumin powder",
+                    "quantity": "1 teaspoon"
+                },
+                {
+                    "name": "coriander powder",
+                    "quantity": "1 teaspoon"
+                },
+                {
+                    "name": "chili powder",
+                    "quantity": "1 teaspoon"
+                },
+                {
+                    "name": "salt",
+                    "quantity": "1 teaspoon (or to taste)"
+                },
+                {
+                    "name": "water",
+                    "quantity": "1 cup"
+                },
+                {
+                    "name": "fresh coriander leaves, chopped",
+                    "quantity": "2 tablespoons"
+                }
+            ],
+            "cooking_method": [
+                "In a large pot or wok, heat the oil over medium-high heat. Add the chopped onion and fry until golden brown, stirring occasionally.",
+                "Add the ginger paste, garlic paste, and slit green chilies to the pot and fry for another 1-2 minutes, or until fragrant.",
+                "Add the chicken pieces to the pot and stir to coat with the onion and spice mixture.",
+                "Add the turmeric powder, cumin powder, coriander powder, chili powder, and salt to the pot and stir well to combine.",
+                "Pour in the water and bring the curry to a boil. Reduce the heat to low and simmer for 30-35 minutes, or until the chicken is cooked through and the sauce has thickened.",
+                "Garnish with chopped fresh coriander leaves before serving. Serve hot with steamed rice or flatbread."
+            ]
+        }
+    },
+    {
+        "id": 6,
+        "img_url": "https://example.com/img6.jpg",
+        "name": "Sadia Akter",
+        "years_of_experience": 4,
+        "num_recipes": 40,
+        "rating": 4.4,
+        "likes": 700,
+        "bio": "Sadia is a passionate and creative chef who loves to experiment with new flavors and techniques. She draws inspiration from her Bangladeshi heritage to create dishes that are both delicious and nutritious.",
+        "recipe": {
+            "name": "Chicken Curry",
+            "image_url": "https://example.com/chicken-curry.jpg",
+            "ingredients": [
+                {
+                    "name": "chicken pieces",
+                    "quantity": "1 kg"
+                },
+                {
+                    "name": "vegetable oil",
+                    "quantity": "3 tablespoons"
+                },
+                {
+                    "name": "onion, finely chopped",
+                    "quantity": "1"
+                },
+                {
+                    "name": "ginger paste",
+                    "quantity": "1 tablespoon"
+                },
+                {
+                    "name": "garlic paste",
+                    "quantity": "1 tablespoon"
+                },
+                {
+                    "name": "green chilies, slit",
+                    "quantity": "2"
+                },
+                {
+                    "name": "turmeric powder",
+                    "quantity": "1 teaspoon"
+                },
+                {
+                    "name": "cumin powder",
+                    "quantity": "1 teaspoon"
+                },
+                {
+                    "name": "coriander powder",
+                    "quantity": "1 teaspoon"
+                },
+                {
+                    "name": "chili powder",
+                    "quantity": "1 teaspoon"
+                },
+                {
+                    "name": "salt",
+                    "quantity": "1 teaspoon (or to taste)"
+                },
+                {
+                    "name": "water",
+                    "quantity": "1 cup"
+                },
+                {
+                    "name": "fresh coriander leaves, chopped",
+                    "quantity": "2 tablespoons"
+                }
+            ],
+            "cooking_method": [
+                "In a large pot or wok, heat the oil over medium-high heat. Add the chopped onion and fry until golden brown, stirring occasionally.",
+                "Add the ginger paste, garlic paste, and slit green chilies to the pot and fry for another 1-2 minutes, or until fragrant.",
+                "Add the chicken pieces to the pot and stir to coat with the onion and spice mixture.",
+                "Add the turmeric powder, cumin powder, coriander powder, chili powder, and salt to the pot and stir well to combine.",
+                "Pour in the water and bring the curry to a boil. Reduce the heat to low and simmer for 30-35 minutes, or until the chicken is cooked through and the sauce has thickened.",
+                "Garnish with chopped fresh coriander leaves before serving. Serve hot with steamed rice or flatbread."
+            ]
+        }
+    }
+]
