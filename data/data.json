@@ -4,461 +4,1189 @@
         "img_url": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/MAnik-Miah-top-10-chefs-in-Bangladesh.jpg",
         "thumbnail_url": "https://media.istockphoto.com/id/508345848/photo/grilled-chicken-legs.jpg?s=2048x2048&w=is&k=20&c=XzSthtc6S6rYDxZRRyrJRWtI3xuGgcfcFTbaL42oaDU=",
         "name": "Sakib Rahman",
-        "years_of_experience": 5,
+        "years_of_experience": "5 years",
         "num_recipes": 50,
-        "rating": 4.5,
+       
         "likes": 1000,
         "bio": "Sakib is a seasoned chef with a passion for creating delicious and healthy meals. He specializes in Bangladeshi cuisine and has won numerous awards for his unique recipes.",
-        "recipe": {
-            "name": "Chicken Curry",
-            "recipe_url": "https://media.istockphoto.com/id/1270641906/photo/french-food-chicken-baked-with-olives-tomatoes-and-onions-herbs-close-up-in-a-frying-pan.jpg?s=2048x2048&w=is&k=20&c=sVoZAvcy3_0WRwgkmMEF8JEdTTky3QZHYY4rMNVcH80=",
-            "ingredients": [
-                {
-                    "name": "chicken pieces",
-                    "quantity": "1 kg"
-                },
-                {
-                    "name": "vegetable oil",
-                    "quantity": "3 tablespoons"
-                },
-                {
-                    "name": "onion, finely chopped",
-                    "quantity": "1"
-                },
-                {
-                    "name": "ginger paste",
-                    "quantity": "1 tablespoon"
-                },
-                {
-                    "name": "garlic paste",
-                    "quantity": "1 tablespoon"
-                },
-                {
-                    "name": "green chilies, slit",
-                    "quantity": "2"
-                },
-                {
-                    "name": "turmeric powder",
-                    "quantity": "1 teaspoon"
-                },
-                {
-                    "name": "cumin powder",
-                    "quantity": "1 teaspoon"
-                },
-                {
-                    "name": "coriander powder",
-                    "quantity": "1 teaspoon"
-                },
-                {
-                    "name": "chili powder",
-                    "quantity": "1 teaspoon"
-                },
-                {
-                    "name": "salt",
-                    "quantity": "1 teaspoon (or to taste)"
-                },
-                {
-                    "name": "water",
-                    "quantity": "1 cup"
-                },
-                {
-                    "name": "fresh coriander leaves, chopped",
-                    "quantity": "2 tablespoons"
-                }
-            ],
-            "cooking_method": [
-                "In a large pot or wok, heat the oil over medium-high heat. Add the chopped onion and fry until golden brown, stirring occasionally.",
-                "Add the ginger paste, garlic paste, and slit green chilies to the pot and fry for another 1-2 minutes, or until fragrant.",
-                "Add the chicken pieces to the pot and stir to coat with the onion and spice mixture.",
-                "Add the turmeric powder, cumin powder, coriander powder, chili powder, and salt to the pot and stir well to combine.",
-                "Pour in the water and bring the curry to a boil. Reduce the heat to low and simmer for 30-35 minutes, or until the chicken is cooked through and the sauce has thickened.",
-                "Garnish with chopped fresh coriander leaves before serving. Serve hot with steamed rice or flatbread."
-            ]
-        }
+        "recipe": [
+            {
+                "name": "Chicken Curry",
+                "rating": 4.5,
+                "recipe_url": "https://media.istockphoto.com/id/1270641906/photo/french-food-chicken-baked-with-olives-tomatoes-and-onions-herbs-close-up-in-a-frying-pan.jpg?s=2048x2048&w=is&k=20&c=sVoZAvcy3_0WRwgkmMEF8JEdTTky3QZHYY4rMNVcH80=",
+                "ingredients": [
+                    {
+                        "name": "chicken pieces",
+                        "quantity": "1 kg"
+                    },
+                    {
+                        "name": "vegetable oil",
+                        "quantity": "3 tablespoons"
+                    },
+                    {
+                        "name": "onion, finely chopped",
+                        "quantity": "1"
+                    },
+                    {
+                        "name": "ginger paste",
+                        "quantity": "1 tablespoon"
+                    },
+                    {
+                        "name": "garlic paste",
+                        "quantity": "1 tablespoon"
+                    },
+                    {
+                        "name": "green chilies, slit",
+                        "quantity": "2"
+                    },
+                    {
+                        "name": "turmeric powder",
+                        "quantity": "1 teaspoon"
+                    },
+                    {
+                        "name": "cumin powder",
+                        "quantity": "1 teaspoon"
+                    },
+                    {
+                        "name": "coriander powder",
+                        "quantity": "1 teaspoon"
+                    },
+                    {
+                        "name": "chili powder",
+                        "quantity": "1 teaspoon"
+                    },
+                    {
+                        "name": "salt",
+                        "quantity": "1 teaspoon (or to taste)"
+                    },
+                    {
+                        "name": "water",
+                        "quantity": "1 cup"
+                    },
+                    {
+                        "name": "fresh coriander leaves, chopped",
+                        "quantity": "2 tablespoons"
+                    }
+                ],
+                "cooking_method": [
+                    "In a large pot or wok, heat the oil over medium-high heat. Add the chopped onion and fry until golden brown, stirring occasionally. Add the ginger paste, garlic paste, and slit green chilies to the pot and fry for another 1-2 minutes, or until fragrant. Add the chicken pieces to the pot and stir to coat with the onion and spice mixture. Add the turmeric powder, cumin powder, coriander powder, chili powder, and salt to the pot and stir well to combine. Pour in the water and bring the curry to a boil. Reduce the heat to low and simmer for 30-35 minutes, or until the chicken is cooked through and the sauce has thickened. Garnish with chopped fresh coriander leaves before serving. Serve hot with steamed rice or flatbread."
+                ]
+            },
+            {
+                "name": "Chicken Curry",
+                "rating": 4.5,
+                "recipe_url": "https://media.istockphoto.com/id/1270641906/photo/french-food-chicken-baked-with-olives-tomatoes-and-onions-herbs-close-up-in-a-frying-pan.jpg?s=2048x2048&w=is&k=20&c=sVoZAvcy3_0WRwgkmMEF8JEdTTky3QZHYY4rMNVcH80=",
+                "ingredients": [
+                    {
+                        "name": "chicken pieces",
+                        "quantity": "1 kg"
+                    },
+                    {
+                        "name": "vegetable oil",
+                        "quantity": "3 tablespoons"
+                    },
+                    {
+                        "name": "onion, finely chopped",
+                        "quantity": "1"
+                    },
+                    {
+                        "name": "ginger paste",
+                        "quantity": "1 tablespoon"
+                    },
+                    {
+                        "name": "garlic paste",
+                        "quantity": "1 tablespoon"
+                    },
+                    {
+                        "name": "green chilies, slit",
+                        "quantity": "2"
+                    },
+                    {
+                        "name": "turmeric powder",
+                        "quantity": "1 teaspoon"
+                    },
+                    {
+                        "name": "cumin powder",
+                        "quantity": "1 teaspoon"
+                    },
+                    {
+                        "name": "coriander powder",
+                        "quantity": "1 teaspoon"
+                    },
+                    {
+                        "name": "chili powder",
+                        "quantity": "1 teaspoon"
+                    },
+                    {
+                        "name": "salt",
+                        "quantity": "1 teaspoon (or to taste)"
+                    },
+                    {
+                        "name": "water",
+                        "quantity": "1 cup"
+                    },
+                    {
+                        "name": "fresh coriander leaves, chopped",
+                        "quantity": "2 tablespoons"
+                    }
+                ],
+                "cooking_method": [
+                    "In a large pot or wok, heat the oil over medium-high heat. Add the chopped onion and fry until golden brown, stirring occasionally. Add the ginger paste, garlic paste, and slit green chilies to the pot and fry for another 1-2 minutes, or until fragrant. Add the chicken pieces to the pot and stir to coat with the onion and spice mixture. Add the turmeric powder, cumin powder, coriander powder, chili powder, and salt to the pot and stir well to combine. Pour in the water and bring the curry to a boil. Reduce the heat to low and simmer for 30-35 minutes, or until the chicken is cooked through and the sauce has thickened. Garnish with chopped fresh coriander leaves before serving. Serve hot with steamed rice or flatbread."
+                ]
+            },
+            {
+                "name": "Chicken Curry",
+                "rating": 4.5,
+                "recipe_url": "https://media.istockphoto.com/id/1270641906/photo/french-food-chicken-baked-with-olives-tomatoes-and-onions-herbs-close-up-in-a-frying-pan.jpg?s=2048x2048&w=is&k=20&c=sVoZAvcy3_0WRwgkmMEF8JEdTTky3QZHYY4rMNVcH80=",
+                "ingredients": [
+                    {
+                        "name": "chicken pieces",
+                        "quantity": "1 kg"
+                    },
+                    {
+                        "name": "vegetable oil",
+                        "quantity": "3 tablespoons"
+                    },
+                    {
+                        "name": "onion, finely chopped",
+                        "quantity": "1"
+                    },
+                    {
+                        "name": "ginger paste",
+                        "quantity": "1 tablespoon"
+                    },
+                    {
+                        "name": "garlic paste",
+                        "quantity": "1 tablespoon"
+                    },
+                    {
+                        "name": "green chilies, slit",
+                        "quantity": "2"
+                    },
+                    {
+                        "name": "turmeric powder",
+                        "quantity": "1 teaspoon"
+                    },
+                    {
+                        "name": "cumin powder",
+                        "quantity": "1 teaspoon"
+                    },
+                    {
+                        "name": "coriander powder",
+                        "quantity": "1 teaspoon"
+                    },
+                    {
+                        "name": "chili powder",
+                        "quantity": "1 teaspoon"
+                    },
+                    {
+                        "name": "salt",
+                        "quantity": "1 teaspoon (or to taste)"
+                    },
+                    {
+                        "name": "water",
+                        "quantity": "1 cup"
+                    },
+                    {
+                        "name": "fresh coriander leaves, chopped",
+                        "quantity": "2 tablespoons"
+                    }
+                ],
+                "cooking_method": [
+                    "In a large pot or wok, heat the oil over medium-high heat. Add the chopped onion and fry until golden brown, stirring occasionally. Add the ginger paste, garlic paste, and slit green chilies to the pot and fry for another 1-2 minutes, or until fragrant. Add the chicken pieces to the pot and stir to coat with the onion and spice mixture. Add the turmeric powder, cumin powder, coriander powder, chili powder, and salt to the pot and stir well to combine. Pour in the water and bring the curry to a boil. Reduce the heat to low and simmer for 30-35 minutes, or until the chicken is cooked through and the sauce has thickened. Garnish with chopped fresh coriander leaves before serving. Serve hot with steamed rice or flatbread."
+                ]
+            }
+        ]
     },
     {
         "id": 2,
         "img_url": "https://media.licdn.com/dms/image/C4E03AQFx-vucElY-9A/profile-displayphoto-shrink_800_800/0/1598364165337?e=2147483647&v=beta&t=0L_FF6vKXoK0pB99bB08rNKPcPAU1QVTI6QeCOlEy6U",
         "thumbnail_url": "https://media.istockphoto.com/id/508345848/photo/grilled-chicken-legs.jpg?s=2048x2048&w=is&k=20&c=XzSthtc6S6rYDxZRRyrJRWtI3xuGgcfcFTbaL42oaDU=",
         "name": "Farzana Habib",
-        "years_of_experience": 3,
+        "years_of_experience": "3 years",
         "num_recipes": 30,
-        "rating": 4.0,
         "likes": 800,
         "bio": "Farzana Habib is a talented chef who loves to experiment with flavors and textures. She has a deep understanding of Bangladeshi spices and herbs, and her dishes are always bursting with flavor.",
-        "recipe": {
-            "name": "Chicken Curry",
-            "recipe_url": "https://media.istockphoto.com/id/1270641906/photo/french-food-chicken-baked-with-olives-tomatoes-and-onions-herbs-close-up-in-a-frying-pan.jpg?s=2048x2048&w=is&k=20&c=sVoZAvcy3_0WRwgkmMEF8JEdTTky3QZHYY4rMNVcH80=",
-            "ingredients": [
-                {
-                    "name": "chicken pieces",
-                    "quantity": "1 kg"
-                },
-                {
-                    "name": "vegetable oil",
-                    "quantity": "3 tablespoons"
-                },
-                {
-                    "name": "onion, finely chopped",
-                    "quantity": "1"
-                },
-                {
-                    "name": "ginger paste",
-                    "quantity": "1 tablespoon"
-                },
-                {
-                    "name": "garlic paste",
-                    "quantity": "1 tablespoon"
-                },
-                {
-                    "name": "green chilies, slit",
-                    "quantity": "2"
-                },
-                {
-                    "name": "turmeric powder",
-                    "quantity": "1 teaspoon"
-                },
-                {
-                    "name": "cumin powder",
-                    "quantity": "1 teaspoon"
-                },
-                {
-                    "name": "coriander powder",
-                    "quantity": "1 teaspoon"
-                },
-                {
-                    "name": "chili powder",
-                    "quantity": "1 teaspoon"
-                },
-                {
-                    "name": "salt",
-                    "quantity": "1 teaspoon (or to taste)"
-                },
-                {
-                    "name": "water",
-                    "quantity": "1 cup"
-                },
-                {
-                    "name": "fresh coriander leaves, chopped",
-                    "quantity": "2 tablespoons"
-                }
-            ],
-            "cooking_method": [
-                "In a large pot or wok, heat the oil over medium-high heat. Add the chopped onion and fry until golden brown, stirring occasionally.",
-                "Add the ginger paste, garlic paste, and slit green chilies to the pot and fry for another 1-2 minutes, or until fragrant.",
-                "Add the chicken pieces to the pot and stir to coat with the onion and spice mixture.",
-                "Add the turmeric powder, cumin powder, coriander powder, chili powder, and salt to the pot and stir well to combine.",
-                "Pour in the water and bring the curry to a boil. Reduce the heat to low and simmer for 30-35 minutes, or until the chicken is cooked through and the sauce has thickened.",
-                "Garnish with chopped fresh coriander leaves before serving. Serve hot with steamed rice or flatbread."
-            ]
-        }
+        "recipe": [
+            {
+                "name": "Chicken Curry",
+                "rating": 4.5,
+                "recipe_url": "https://media.istockphoto.com/id/1270641906/photo/french-food-chicken-baked-with-olives-tomatoes-and-onions-herbs-close-up-in-a-frying-pan.jpg?s=2048x2048&w=is&k=20&c=sVoZAvcy3_0WRwgkmMEF8JEdTTky3QZHYY4rMNVcH80=",
+                "ingredients": [
+                    {
+                        "name": "chicken pieces",
+                        "quantity": "1 kg"
+                    },
+                    {
+                        "name": "vegetable oil",
+                        "quantity": "3 tablespoons"
+                    },
+                    {
+                        "name": "onion, finely chopped",
+                        "quantity": "1"
+                    },
+                    {
+                        "name": "ginger paste",
+                        "quantity": "1 tablespoon"
+                    },
+                    {
+                        "name": "garlic paste",
+                        "quantity": "1 tablespoon"
+                    },
+                    {
+                        "name": "green chilies, slit",
+                        "quantity": "2"
+                    },
+                    {
+                        "name": "turmeric powder",
+                        "quantity": "1 teaspoon"
+                    },
+                    {
+                        "name": "cumin powder",
+                        "quantity": "1 teaspoon"
+                    },
+                    {
+                        "name": "coriander powder",
+                        "quantity": "1 teaspoon"
+                    },
+                    {
+                        "name": "chili powder",
+                        "quantity": "1 teaspoon"
+                    },
+                    {
+                        "name": "salt",
+                        "quantity": "1 teaspoon (or to taste)"
+                    },
+                    {
+                        "name": "water",
+                        "quantity": "1 cup"
+                    },
+                    {
+                        "name": "fresh coriander leaves, chopped",
+                        "quantity": "2 tablespoons"
+                    }
+                ],
+                "cooking_method": [
+                    "In a large pot or wok, heat the oil over medium-high heat. Add the chopped onion and fry until golden brown, stirring occasionally. Add the ginger paste, garlic paste, and slit green chilies to the pot and fry for another 1-2 minutes, or until fragrant. Add the chicken pieces to the pot and stir to coat with the onion and spice mixture. Add the turmeric powder, cumin powder, coriander powder, chili powder, and salt to the pot and stir well to combine. Pour in the water and bring the curry to a boil. Reduce the heat to low and simmer for 30-35 minutes, or until the chicken is cooked through and the sauce has thickened. Garnish with chopped fresh coriander leaves before serving. Serve hot with steamed rice or flatbread."
+                ]
+            },
+            {
+                "name": "Chicken Curry",
+                "rating": 4.5,
+                "recipe_url": "https://media.istockphoto.com/id/1270641906/photo/french-food-chicken-baked-with-olives-tomatoes-and-onions-herbs-close-up-in-a-frying-pan.jpg?s=2048x2048&w=is&k=20&c=sVoZAvcy3_0WRwgkmMEF8JEdTTky3QZHYY4rMNVcH80=",
+                "ingredients": [
+                    {
+                        "name": "chicken pieces",
+                        "quantity": "1 kg"
+                    },
+                    {
+                        "name": "vegetable oil",
+                        "quantity": "3 tablespoons"
+                    },
+                    {
+                        "name": "onion, finely chopped",
+                        "quantity": "1"
+                    },
+                    {
+                        "name": "ginger paste",
+                        "quantity": "1 tablespoon"
+                    },
+                    {
+                        "name": "garlic paste",
+                        "quantity": "1 tablespoon"
+                    },
+                    {
+                        "name": "green chilies, slit",
+                        "quantity": "2"
+                    },
+                    {
+                        "name": "turmeric powder",
+                        "quantity": "1 teaspoon"
+                    },
+                    {
+                        "name": "cumin powder",
+                        "quantity": "1 teaspoon"
+                    },
+                    {
+                        "name": "coriander powder",
+                        "quantity": "1 teaspoon"
+                    },
+                    {
+                        "name": "chili powder",
+                        "quantity": "1 teaspoon"
+                    },
+                    {
+                        "name": "salt",
+                        "quantity": "1 teaspoon (or to taste)"
+                    },
+                    {
+                        "name": "water",
+                        "quantity": "1 cup"
+                    },
+                    {
+                        "name": "fresh coriander leaves, chopped",
+                        "quantity": "2 tablespoons"
+                    }
+                ],
+                "cooking_method": [
+                    "In a large pot or wok, heat the oil over medium-high heat. Add the chopped onion and fry until golden brown, stirring occasionally. Add the ginger paste, garlic paste, and slit green chilies to the pot and fry for another 1-2 minutes, or until fragrant. Add the chicken pieces to the pot and stir to coat with the onion and spice mixture. Add the turmeric powder, cumin powder, coriander powder, chili powder, and salt to the pot and stir well to combine. Pour in the water and bring the curry to a boil. Reduce the heat to low and simmer for 30-35 minutes, or until the chicken is cooked through and the sauce has thickened. Garnish with chopped fresh coriander leaves before serving. Serve hot with steamed rice or flatbread."
+                ]
+            },
+            {
+                "name": "Chicken Curry",
+                "rating": 4.5,
+                "recipe_url": "https://media.istockphoto.com/id/1270641906/photo/french-food-chicken-baked-with-olives-tomatoes-and-onions-herbs-close-up-in-a-frying-pan.jpg?s=2048x2048&w=is&k=20&c=sVoZAvcy3_0WRwgkmMEF8JEdTTky3QZHYY4rMNVcH80=",
+                "ingredients": [
+                    {
+                        "name": "chicken pieces",
+                        "quantity": "1 kg"
+                    },
+                    {
+                        "name": "vegetable oil",
+                        "quantity": "3 tablespoons"
+                    },
+                    {
+                        "name": "onion, finely chopped",
+                        "quantity": "1"
+                    },
+                    {
+                        "name": "ginger paste",
+                        "quantity": "1 tablespoon"
+                    },
+                    {
+                        "name": "garlic paste",
+                        "quantity": "1 tablespoon"
+                    },
+                    {
+                        "name": "green chilies, slit",
+                        "quantity": "2"
+                    },
+                    {
+                        "name": "turmeric powder",
+                        "quantity": "1 teaspoon"
+                    },
+                    {
+                        "name": "cumin powder",
+                        "quantity": "1 teaspoon"
+                    },
+                    {
+                        "name": "coriander powder",
+                        "quantity": "1 teaspoon"
+                    },
+                    {
+                        "name": "chili powder",
+                        "quantity": "1 teaspoon"
+                    },
+                    {
+                        "name": "salt",
+                        "quantity": "1 teaspoon (or to taste)"
+                    },
+                    {
+                        "name": "water",
+                        "quantity": "1 cup"
+                    },
+                    {
+                        "name": "fresh coriander leaves, chopped",
+                        "quantity": "2 tablespoons"
+                    }
+                ],
+                "cooking_method": [
+                    "In a large pot or wok, heat the oil over medium-high heat. Add the chopped onion and fry until golden brown, stirring occasionally. Add the ginger paste, garlic paste, and slit green chilies to the pot and fry for another 1-2 minutes, or until fragrant. Add the chicken pieces to the pot and stir to coat with the onion and spice mixture. Add the turmeric powder, cumin powder, coriander powder, chili powder, and salt to the pot and stir well to combine. Pour in the water and bring the curry to a boil. Reduce the heat to low and simmer for 30-35 minutes, or until the chicken is cooked through and the sauce has thickened. Garnish with chopped fresh coriander leaves before serving. Serve hot with steamed rice or flatbread."
+                ]
+            }
+        ]
     },
     {
         "id": 3,
         "img_url": "https://scontent.fdac90-1.fna.fbcdn.net/v/t1.6435-9/167543334_180626337223919_3299973940031935286_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeHYQZILKVrz9gB-dHGi0fH0CbQWBZIkHxIJtBYFkiQfEhx-89SYOubaDfP_aE0b__UBNo1LKDOjZx07W_Bd5uuq&_nc_ohc=GlLcEVouIEUAX85N7Ov&_nc_oc=AQmkKfw26q5PGKoRrOmT6cErGWyfg_MDyK2L63A7SGlqfKkj1Ci8TvocEVYJJ6WDCsY&_nc_ht=scontent.fdac90-1.fna&oh=00_AfAVzG9Oo9FsVkJ3S24_Eb0EHFUfM3ARSq1j6ji_0fTCiw&oe=647869AF",
         "thumbnail_url": "https://media.istockphoto.com/id/508345848/photo/grilled-chicken-legs.jpg?s=2048x2048&w=is&k=20&c=XzSthtc6S6rYDxZRRyrJRWtI3xuGgcfcFTbaL42oaDU=",
         "name": "Tony Khan",
-        "years_of_experience": 8,
+        "years_of_experience": "8 years",
         "num_recipes": 100,
-        "rating": 4.8,
         "likes": 1200,
         "bio": "Tony Khan is a master of Bangladeshi cuisine, with years of experience in both traditional and modern cooking techniques. His dishes are a perfect blend of classic and contemporary flavors.",
-        "recipe": {
-            "name": "Chicken Curry",
-            "recipe_url": "https://media.istockphoto.com/id/1270641906/photo/french-food-chicken-baked-with-olives-tomatoes-and-onions-herbs-close-up-in-a-frying-pan.jpg?s=2048x2048&w=is&k=20&c=sVoZAvcy3_0WRwgkmMEF8JEdTTky3QZHYY4rMNVcH80=",
-            "ingredients": [
-                {
-                    "name": "chicken pieces",
-                    "quantity": "1 kg"
-                },
-                {
-                    "name": "vegetable oil",
-                    "quantity": "3 tablespoons"
-                },
-                {
-                    "name": "onion, finely chopped",
-                    "quantity": "1"
-                },
-                {
-                    "name": "ginger paste",
-                    "quantity": "1 tablespoon"
-                },
-                {
-                    "name": "garlic paste",
-                    "quantity": "1 tablespoon"
-                },
-                {
-                    "name": "green chilies, slit",
-                    "quantity": "2"
-                },
-                {
-                    "name": "turmeric powder",
-                    "quantity": "1 teaspoon"
-                },
-                {
-                    "name": "cumin powder",
-                    "quantity": "1 teaspoon"
-                },
-                {
-                    "name": "coriander powder",
-                    "quantity": "1 teaspoon"
-                },
-                {
-                    "name": "chili powder",
-                    "quantity": "1 teaspoon"
-                },
-                {
-                    "name": "salt",
-                    "quantity": "1 teaspoon (or to taste)"
-                },
-                {
-                    "name": "water",
-                    "quantity": "1 cup"
-                },
-                {
-                    "name": "fresh coriander leaves, chopped",
-                    "quantity": "2 tablespoons"
-                }
-            ],
-            "cooking_method": [
-                "In a large pot or wok, heat the oil over medium-high heat. Add the chopped onion and fry until golden brown, stirring occasionally.",
-                "Add the ginger paste, garlic paste, and slit green chilies to the pot and fry for another 1-2 minutes, or until fragrant.",
-                "Add the chicken pieces to the pot and stir to coat with the onion and spice mixture.",
-                "Add the turmeric powder, cumin powder, coriander powder, chili powder, and salt to the pot and stir well to combine.",
-                "Pour in the water and bring the curry to a boil. Reduce the heat to low and simmer for 30-35 minutes, or until the chicken is cooked through and the sauce has thickened.",
-                "Garnish with chopped fresh coriander leaves before serving. Serve hot with steamed rice or flatbread."
-            ]
-        }
+        "recipe": [
+            {
+                "name": "Chicken Curry",
+                "rating": 4.5,
+                "recipe_url": "https://media.istockphoto.com/id/1270641906/photo/french-food-chicken-baked-with-olives-tomatoes-and-onions-herbs-close-up-in-a-frying-pan.jpg?s=2048x2048&w=is&k=20&c=sVoZAvcy3_0WRwgkmMEF8JEdTTky3QZHYY4rMNVcH80=",
+                "ingredients": [
+                    {
+                        "name": "chicken pieces",
+                        "quantity": "1 kg"
+                    },
+                    {
+                        "name": "vegetable oil",
+                        "quantity": "3 tablespoons"
+                    },
+                    {
+                        "name": "onion, finely chopped",
+                        "quantity": "1"
+                    },
+                    {
+                        "name": "ginger paste",
+                        "quantity": "1 tablespoon"
+                    },
+                    {
+                        "name": "garlic paste",
+                        "quantity": "1 tablespoon"
+                    },
+                    {
+                        "name": "green chilies, slit",
+                        "quantity": "2"
+                    },
+                    {
+                        "name": "turmeric powder",
+                        "quantity": "1 teaspoon"
+                    },
+                    {
+                        "name": "cumin powder",
+                        "quantity": "1 teaspoon"
+                    },
+                    {
+                        "name": "coriander powder",
+                        "quantity": "1 teaspoon"
+                    },
+                    {
+                        "name": "chili powder",
+                        "quantity": "1 teaspoon"
+                    },
+                    {
+                        "name": "salt",
+                        "quantity": "1 teaspoon (or to taste)"
+                    },
+                    {
+                        "name": "water",
+                        "quantity": "1 cup"
+                    },
+                    {
+                        "name": "fresh coriander leaves, chopped",
+                        "quantity": "2 tablespoons"
+                    }
+                ],
+                "cooking_method": [
+                    "In a large pot or wok, heat the oil over medium-high heat. Add the chopped onion and fry until golden brown, stirring occasionally. Add the ginger paste, garlic paste, and slit green chilies to the pot and fry for another 1-2 minutes, or until fragrant. Add the chicken pieces to the pot and stir to coat with the onion and spice mixture. Add the turmeric powder, cumin powder, coriander powder, chili powder, and salt to the pot and stir well to combine. Pour in the water and bring the curry to a boil. Reduce the heat to low and simmer for 30-35 minutes, or until the chicken is cooked through and the sauce has thickened. Garnish with chopped fresh coriander leaves before serving. Serve hot with steamed rice or flatbread."
+                ]
+            },
+            {
+                "name": "Chicken Curry",
+                "rating": 4.5,
+                "recipe_url": "https://media.istockphoto.com/id/1270641906/photo/french-food-chicken-baked-with-olives-tomatoes-and-onions-herbs-close-up-in-a-frying-pan.jpg?s=2048x2048&w=is&k=20&c=sVoZAvcy3_0WRwgkmMEF8JEdTTky3QZHYY4rMNVcH80=",
+                "ingredients": [
+                    {
+                        "name": "chicken pieces",
+                        "quantity": "1 kg"
+                    },
+                    {
+                        "name": "vegetable oil",
+                        "quantity": "3 tablespoons"
+                    },
+                    {
+                        "name": "onion, finely chopped",
+                        "quantity": "1"
+                    },
+                    {
+                        "name": "ginger paste",
+                        "quantity": "1 tablespoon"
+                    },
+                    {
+                        "name": "garlic paste",
+                        "quantity": "1 tablespoon"
+                    },
+                    {
+                        "name": "green chilies, slit",
+                        "quantity": "2"
+                    },
+                    {
+                        "name": "turmeric powder",
+                        "quantity": "1 teaspoon"
+                    },
+                    {
+                        "name": "cumin powder",
+                        "quantity": "1 teaspoon"
+                    },
+                    {
+                        "name": "coriander powder",
+                        "quantity": "1 teaspoon"
+                    },
+                    {
+                        "name": "chili powder",
+                        "quantity": "1 teaspoon"
+                    },
+                    {
+                        "name": "salt",
+                        "quantity": "1 teaspoon (or to taste)"
+                    },
+                    {
+                        "name": "water",
+                        "quantity": "1 cup"
+                    },
+                    {
+                        "name": "fresh coriander leaves, chopped",
+                        "quantity": "2 tablespoons"
+                    }
+                ],
+                "cooking_method": [
+                    "In a large pot or wok, heat the oil over medium-high heat. Add the chopped onion and fry until golden brown, stirring occasionally. Add the ginger paste, garlic paste, and slit green chilies to the pot and fry for another 1-2 minutes, or until fragrant. Add the chicken pieces to the pot and stir to coat with the onion and spice mixture. Add the turmeric powder, cumin powder, coriander powder, chili powder, and salt to the pot and stir well to combine. Pour in the water and bring the curry to a boil. Reduce the heat to low and simmer for 30-35 minutes, or until the chicken is cooked through and the sauce has thickened. Garnish with chopped fresh coriander leaves before serving. Serve hot with steamed rice or flatbread."
+                ]
+            },
+            {
+                "name": "Chicken Curry",
+                "rating": 4.5,
+                "recipe_url": "https://media.istockphoto.com/id/1270641906/photo/french-food-chicken-baked-with-olives-tomatoes-and-onions-herbs-close-up-in-a-frying-pan.jpg?s=2048x2048&w=is&k=20&c=sVoZAvcy3_0WRwgkmMEF8JEdTTky3QZHYY4rMNVcH80=",
+                "ingredients": [
+                    {
+                        "name": "chicken pieces",
+                        "quantity": "1 kg"
+                    },
+                    {
+                        "name": "vegetable oil",
+                        "quantity": "3 tablespoons"
+                    },
+                    {
+                        "name": "onion, finely chopped",
+                        "quantity": "1"
+                    },
+                    {
+                        "name": "ginger paste",
+                        "quantity": "1 tablespoon"
+                    },
+                    {
+                        "name": "garlic paste",
+                        "quantity": "1 tablespoon"
+                    },
+                    {
+                        "name": "green chilies, slit",
+                        "quantity": "2"
+                    },
+                    {
+                        "name": "turmeric powder",
+                        "quantity": "1 teaspoon"
+                    },
+                    {
+                        "name": "cumin powder",
+                        "quantity": "1 teaspoon"
+                    },
+                    {
+                        "name": "coriander powder",
+                        "quantity": "1 teaspoon"
+                    },
+                    {
+                        "name": "chili powder",
+                        "quantity": "1 teaspoon"
+                    },
+                    {
+                        "name": "salt",
+                        "quantity": "1 teaspoon (or to taste)"
+                    },
+                    {
+                        "name": "water",
+                        "quantity": "1 cup"
+                    },
+                    {
+                        "name": "fresh coriander leaves, chopped",
+                        "quantity": "2 tablespoons"
+                    }
+                ],
+                "cooking_method": [
+                    "In a large pot or wok, heat the oil over medium-high heat. Add the chopped onion and fry until golden brown, stirring occasionally. Add the ginger paste, garlic paste, and slit green chilies to the pot and fry for another 1-2 minutes, or until fragrant. Add the chicken pieces to the pot and stir to coat with the onion and spice mixture. Add the turmeric powder, cumin powder, coriander powder, chili powder, and salt to the pot and stir well to combine. Pour in the water and bring the curry to a boil. Reduce the heat to low and simmer for 30-35 minutes, or until the chicken is cooked through and the sauce has thickened. Garnish with chopped fresh coriander leaves before serving. Serve hot with steamed rice or flatbread."
+                ]
+            }
+        ]
     },
     {
         "id": 4,
         "img_url": "https://scontent.fdac90-1.fna.fbcdn.net/v/t39.30808-6/312457163_10228438710774274_2243719224711570340_n.jpg?stp=cp6_dst-jpg&_nc_cat=107&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeGsI_Zx5Pnr36IZSaixAU0r-cPVznJszLf5w9XOcmzMt0FNFOpfHpN5IOXzB8tropeBG_85ORFK9wI9vvRl3_jN&_nc_ohc=9DpkTOBeiyIAX9-qRAB&_nc_ht=scontent.fdac90-1.fna&oh=00_AfBBgwCAjEG4itG31kmV37nJAwOqpcDVgwWro0xGB2umzQ&oe=6455AB18",
         "thumbnail_url": "https://media.istockphoto.com/id/508345848/photo/grilled-chicken-legs.jpg?s=2048x2048&w=is&k=20&c=XzSthtc6S6rYDxZRRyrJRWtI3xuGgcfcFTbaL42oaDU=",
         "name": "Ahmed Hossain",
-        "years_of_experience": 2,
+        "years_of_experience": "2 years",
         "num_recipes": 20,
-        "rating": 4.2,
         "likes": 500,
         "bio": "Ahmed Hossain is a young and talented chef who is passionate about creating healthy and flavorful meals. She draws inspiration from both Bangladeshi and international cuisine to create unique dishes that are sure to please.",
-        "recipe": {
-            "name": "Chicken Curry",
-            "recipe_url": "https://media.istockphoto.com/id/1270641906/photo/french-food-chicken-baked-with-olives-tomatoes-and-onions-herbs-close-up-in-a-frying-pan.jpg?s=2048x2048&w=is&k=20&c=sVoZAvcy3_0WRwgkmMEF8JEdTTky3QZHYY4rMNVcH80=",
-            "ingredients": [
-                {
-                    "name": "chicken pieces",
-                    "quantity": "1 kg"
-                },
-                {
-                    "name": "vegetable oil",
-                    "quantity": "3 tablespoons"
-                },
-                {
-                    "name": "onion, finely chopped",
-                    "quantity": "1"
-                },
-                {
-                    "name": "ginger paste",
-                    "quantity": "1 tablespoon"
-                },
-                {
-                    "name": "garlic paste",
-                    "quantity": "1 tablespoon"
-                },
-                {
-                    "name": "green chilies, slit",
-                    "quantity": "2"
-                },
-                {
-                    "name": "turmeric powder",
-                    "quantity": "1 teaspoon"
-                },
-                {
-                    "name": "cumin powder",
-                    "quantity": "1 teaspoon"
-                },
-                {
-                    "name": "coriander powder",
-                    "quantity": "1 teaspoon"
-                },
-                {
-                    "name": "chili powder",
-                    "quantity": "1 teaspoon"
-                },
-                {
-                    "name": "salt",
-                    "quantity": "1 teaspoon (or to taste)"
-                },
-                {
-                    "name": "water",
-                    "quantity": "1 cup"
-                },
-                {
-                    "name": "fresh coriander leaves, chopped",
-                    "quantity": "2 tablespoons"
-                }
-            ],
-            "cooking_method": [
-                "In a large pot or wok, heat the oil over medium-high heat. Add the chopped onion and fry until golden brown, stirring occasionally.",
-                "Add the ginger paste, garlic paste, and slit green chilies to the pot and fry for another 1-2 minutes, or until fragrant.",
-                "Add the chicken pieces to the pot and stir to coat with the onion and spice mixture.",
-                "Add the turmeric powder, cumin powder, coriander powder, chili powder, and salt to the pot and stir well to combine.",
-                "Pour in the water and bring the curry to a boil. Reduce the heat to low and simmer for 30-35 minutes, or until the chicken is cooked through and the sauce has thickened.",
-                "Garnish with chopped fresh coriander leaves before serving. Serve hot with steamed rice or flatbread."
-            ]
-        }
+        "recipe": [
+            {
+                "name": "Chicken Curry",
+                "rating": 4.5,
+                "recipe_url": "https://media.istockphoto.com/id/1270641906/photo/french-food-chicken-baked-with-olives-tomatoes-and-onions-herbs-close-up-in-a-frying-pan.jpg?s=2048x2048&w=is&k=20&c=sVoZAvcy3_0WRwgkmMEF8JEdTTky3QZHYY4rMNVcH80=",
+                "ingredients": [
+                    {
+                        "name": "chicken pieces",
+                        "quantity": "1 kg"
+                    },
+                    {
+                        "name": "vegetable oil",
+                        "quantity": "3 tablespoons"
+                    },
+                    {
+                        "name": "onion, finely chopped",
+                        "quantity": "1"
+                    },
+                    {
+                        "name": "ginger paste",
+                        "quantity": "1 tablespoon"
+                    },
+                    {
+                        "name": "garlic paste",
+                        "quantity": "1 tablespoon"
+                    },
+                    {
+                        "name": "green chilies, slit",
+                        "quantity": "2"
+                    },
+                    {
+                        "name": "turmeric powder",
+                        "quantity": "1 teaspoon"
+                    },
+                    {
+                        "name": "cumin powder",
+                        "quantity": "1 teaspoon"
+                    },
+                    {
+                        "name": "coriander powder",
+                        "quantity": "1 teaspoon"
+                    },
+                    {
+                        "name": "chili powder",
+                        "quantity": "1 teaspoon"
+                    },
+                    {
+                        "name": "salt",
+                        "quantity": "1 teaspoon (or to taste)"
+                    },
+                    {
+                        "name": "water",
+                        "quantity": "1 cup"
+                    },
+                    {
+                        "name": "fresh coriander leaves, chopped",
+                        "quantity": "2 tablespoons"
+                    }
+                ],
+                "cooking_method": [
+                    "In a large pot or wok, heat the oil over medium-high heat. Add the chopped onion and fry until golden brown, stirring occasionally. Add the ginger paste, garlic paste, and slit green chilies to the pot and fry for another 1-2 minutes, or until fragrant. Add the chicken pieces to the pot and stir to coat with the onion and spice mixture. Add the turmeric powder, cumin powder, coriander powder, chili powder, and salt to the pot and stir well to combine. Pour in the water and bring the curry to a boil. Reduce the heat to low and simmer for 30-35 minutes, or until the chicken is cooked through and the sauce has thickened. Garnish with chopped fresh coriander leaves before serving. Serve hot with steamed rice or flatbread."
+                ]
+            },
+            {
+                "name": "Chicken Curry",
+                "rating": 4.5,
+                "recipe_url": "https://media.istockphoto.com/id/1270641906/photo/french-food-chicken-baked-with-olives-tomatoes-and-onions-herbs-close-up-in-a-frying-pan.jpg?s=2048x2048&w=is&k=20&c=sVoZAvcy3_0WRwgkmMEF8JEdTTky3QZHYY4rMNVcH80=",
+                "ingredients": [
+                    {
+                        "name": "chicken pieces",
+                        "quantity": "1 kg"
+                    },
+                    {
+                        "name": "vegetable oil",
+                        "quantity": "3 tablespoons"
+                    },
+                    {
+                        "name": "onion, finely chopped",
+                        "quantity": "1"
+                    },
+                    {
+                        "name": "ginger paste",
+                        "quantity": "1 tablespoon"
+                    },
+                    {
+                        "name": "garlic paste",
+                        "quantity": "1 tablespoon"
+                    },
+                    {
+                        "name": "green chilies, slit",
+                        "quantity": "2"
+                    },
+                    {
+                        "name": "turmeric powder",
+                        "quantity": "1 teaspoon"
+                    },
+                    {
+                        "name": "cumin powder",
+                        "quantity": "1 teaspoon"
+                    },
+                    {
+                        "name": "coriander powder",
+                        "quantity": "1 teaspoon"
+                    },
+                    {
+                        "name": "chili powder",
+                        "quantity": "1 teaspoon"
+                    },
+                    {
+                        "name": "salt",
+                        "quantity": "1 teaspoon (or to taste)"
+                    },
+                    {
+                        "name": "water",
+                        "quantity": "1 cup"
+                    },
+                    {
+                        "name": "fresh coriander leaves, chopped",
+                        "quantity": "2 tablespoons"
+                    }
+                ],
+                "cooking_method": [
+                    "In a large pot or wok, heat the oil over medium-high heat. Add the chopped onion and fry until golden brown, stirring occasionally. Add the ginger paste, garlic paste, and slit green chilies to the pot and fry for another 1-2 minutes, or until fragrant. Add the chicken pieces to the pot and stir to coat with the onion and spice mixture. Add the turmeric powder, cumin powder, coriander powder, chili powder, and salt to the pot and stir well to combine. Pour in the water and bring the curry to a boil. Reduce the heat to low and simmer for 30-35 minutes, or until the chicken is cooked through and the sauce has thickened. Garnish with chopped fresh coriander leaves before serving. Serve hot with steamed rice or flatbread."
+                ]
+            },
+            {
+                "name": "Chicken Curry",
+                "rating": 4.5,
+                "recipe_url": "https://media.istockphoto.com/id/1270641906/photo/french-food-chicken-baked-with-olives-tomatoes-and-onions-herbs-close-up-in-a-frying-pan.jpg?s=2048x2048&w=is&k=20&c=sVoZAvcy3_0WRwgkmMEF8JEdTTky3QZHYY4rMNVcH80=",
+                "ingredients": [
+                    {
+                        "name": "chicken pieces",
+                        "quantity": "1 kg"
+                    },
+                    {
+                        "name": "vegetable oil",
+                        "quantity": "3 tablespoons"
+                    },
+                    {
+                        "name": "onion, finely chopped",
+                        "quantity": "1"
+                    },
+                    {
+                        "name": "ginger paste",
+                        "quantity": "1 tablespoon"
+                    },
+                    {
+                        "name": "garlic paste",
+                        "quantity": "1 tablespoon"
+                    },
+                    {
+                        "name": "green chilies, slit",
+                        "quantity": "2"
+                    },
+                    {
+                        "name": "turmeric powder",
+                        "quantity": "1 teaspoon"
+                    },
+                    {
+                        "name": "cumin powder",
+                        "quantity": "1 teaspoon"
+                    },
+                    {
+                        "name": "coriander powder",
+                        "quantity": "1 teaspoon"
+                    },
+                    {
+                        "name": "chili powder",
+                        "quantity": "1 teaspoon"
+                    },
+                    {
+                        "name": "salt",
+                        "quantity": "1 teaspoon (or to taste)"
+                    },
+                    {
+                        "name": "water",
+                        "quantity": "1 cup"
+                    },
+                    {
+                        "name": "fresh coriander leaves, chopped",
+                        "quantity": "2 tablespoons"
+                    }
+                ],
+                "cooking_method": [
+                    "In a large pot or wok, heat the oil over medium-high heat. Add the chopped onion and fry until golden brown, stirring occasionally. Add the ginger paste, garlic paste, and slit green chilies to the pot and fry for another 1-2 minutes, or until fragrant. Add the chicken pieces to the pot and stir to coat with the onion and spice mixture. Add the turmeric powder, cumin powder, coriander powder, chili powder, and salt to the pot and stir well to combine. Pour in the water and bring the curry to a boil. Reduce the heat to low and simmer for 30-35 minutes, or until the chicken is cooked through and the sauce has thickened. Garnish with chopped fresh coriander leaves before serving. Serve hot with steamed rice or flatbread."
+                ]
+            }
+        ]
     },
     {
         "id": 5,
         "img_url": "https://media.licdn.com/dms/image/C5603AQH9IZHIbv2LfA/profile-displayphoto-shrink_800_800/0/1585667072004?e=2147483647&v=beta&t=URlnKfCj3HOaPhiHiOKH3N1z1iTavg-CM7A-AhEHHGI",
         "thumbnail_url": "https://media.istockphoto.com/id/508345848/photo/grilled-chicken-legs.jpg?s=2048x2048&w=is&k=20&c=XzSthtc6S6rYDxZRRyrJRWtI3xuGgcfcFTbaL42oaDU=",
         "name": "Md Kabir Hossain Akhand",
-        "years_of_experience": 6,
+        "years_of_experience": "6 years",
         "num_recipes": 80,
         "rating": 4.6,
         "likes": 900,
         "bio": "Kabir Hossain Akhand is a skilled chef who has honed his craft over many years. He specializes in Bangladeshi cuisine and is known for his ability to infuse traditional flavors with a modern twist.",
-        "recipe": {
-            "name": "Chicken Curry",
-            "recipe_url": "https://media.istockphoto.com/id/1270641906/photo/french-food-chicken-baked-with-olives-tomatoes-and-onions-herbs-close-up-in-a-frying-pan.jpg?s=2048x2048&w=is&k=20&c=sVoZAvcy3_0WRwgkmMEF8JEdTTky3QZHYY4rMNVcH80=",
-            "ingredients": [
-                {
-                    "name": "chicken pieces",
-                    "quantity": "1 kg"
-                },
-                {
-                    "name": "vegetable oil",
-                    "quantity": "3 tablespoons"
-                },
-                {
-                    "name": "onion, finely chopped",
-                    "quantity": "1"
-                },
-                {
-                    "name": "ginger paste",
-                    "quantity": "1 tablespoon"
-                },
-                {
-                    "name": "garlic paste",
-                    "quantity": "1 tablespoon"
-                },
-                {
-                    "name": "green chilies, slit",
-                    "quantity": "2"
-                },
-                {
-                    "name": "turmeric powder",
-                    "quantity": "1 teaspoon"
-                },
-                {
-                    "name": "cumin powder",
-                    "quantity": "1 teaspoon"
-                },
-                {
-                    "name": "coriander powder",
-                    "quantity": "1 teaspoon"
-                },
-                {
-                    "name": "chili powder",
-                    "quantity": "1 teaspoon"
-                },
-                {
-                    "name": "salt",
-                    "quantity": "1 teaspoon (or to taste)"
-                },
-                {
-                    "name": "water",
-                    "quantity": "1 cup"
-                },
-                {
-                    "name": "fresh coriander leaves, chopped",
-                    "quantity": "2 tablespoons"
-                }
-            ],
-            "cooking_method": [
-                "In a large pot or wok, heat the oil over medium-high heat. Add the chopped onion and fry until golden brown, stirring occasionally.",
-                "Add the ginger paste, garlic paste, and slit green chilies to the pot and fry for another 1-2 minutes, or until fragrant.",
-                "Add the chicken pieces to the pot and stir to coat with the onion and spice mixture.",
-                "Add the turmeric powder, cumin powder, coriander powder, chili powder, and salt to the pot and stir well to combine.",
-                "Pour in the water and bring the curry to a boil. Reduce the heat to low and simmer for 30-35 minutes, or until the chicken is cooked through and the sauce has thickened.",
-                "Garnish with chopped fresh coriander leaves before serving. Serve hot with steamed rice or flatbread."
-            ]
-        }
+        "recipe": [
+            {
+                "name": "Chicken Curry",
+                "rating": 4.5,
+                "recipe_url": "https://media.istockphoto.com/id/1270641906/photo/french-food-chicken-baked-with-olives-tomatoes-and-onions-herbs-close-up-in-a-frying-pan.jpg?s=2048x2048&w=is&k=20&c=sVoZAvcy3_0WRwgkmMEF8JEdTTky3QZHYY4rMNVcH80=",
+                "ingredients": [
+                    {
+                        "name": "chicken pieces",
+                        "quantity": "1 kg"
+                    },
+                    {
+                        "name": "vegetable oil",
+                        "quantity": "3 tablespoons"
+                    },
+                    {
+                        "name": "onion, finely chopped",
+                        "quantity": "1"
+                    },
+                    {
+                        "name": "ginger paste",
+                        "quantity": "1 tablespoon"
+                    },
+                    {
+                        "name": "garlic paste",
+                        "quantity": "1 tablespoon"
+                    },
+                    {
+                        "name": "green chilies, slit",
+                        "quantity": "2"
+                    },
+                    {
+                        "name": "turmeric powder",
+                        "quantity": "1 teaspoon"
+                    },
+                    {
+                        "name": "cumin powder",
+                        "quantity": "1 teaspoon"
+                    },
+                    {
+                        "name": "coriander powder",
+                        "quantity": "1 teaspoon"
+                    },
+                    {
+                        "name": "chili powder",
+                        "quantity": "1 teaspoon"
+                    },
+                    {
+                        "name": "salt",
+                        "quantity": "1 teaspoon (or to taste)"
+                    },
+                    {
+                        "name": "water",
+                        "quantity": "1 cup"
+                    },
+                    {
+                        "name": "fresh coriander leaves, chopped",
+                        "quantity": "2 tablespoons"
+                    }
+                ],
+                "cooking_method": [
+                    "In a large pot or wok, heat the oil over medium-high heat. Add the chopped onion and fry until golden brown, stirring occasionally. Add the ginger paste, garlic paste, and slit green chilies to the pot and fry for another 1-2 minutes, or until fragrant. Add the chicken pieces to the pot and stir to coat with the onion and spice mixture. Add the turmeric powder, cumin powder, coriander powder, chili powder, and salt to the pot and stir well to combine. Pour in the water and bring the curry to a boil. Reduce the heat to low and simmer for 30-35 minutes, or until the chicken is cooked through and the sauce has thickened. Garnish with chopped fresh coriander leaves before serving. Serve hot with steamed rice or flatbread."
+                ]
+            },
+            {
+                "name": "Chicken Curry",
+                "rating": 4.5,
+                "recipe_url": "https://media.istockphoto.com/id/1270641906/photo/french-food-chicken-baked-with-olives-tomatoes-and-onions-herbs-close-up-in-a-frying-pan.jpg?s=2048x2048&w=is&k=20&c=sVoZAvcy3_0WRwgkmMEF8JEdTTky3QZHYY4rMNVcH80=",
+                "ingredients": [
+                    {
+                        "name": "chicken pieces",
+                        "quantity": "1 kg"
+                    },
+                    {
+                        "name": "vegetable oil",
+                        "quantity": "3 tablespoons"
+                    },
+                    {
+                        "name": "onion, finely chopped",
+                        "quantity": "1"
+                    },
+                    {
+                        "name": "ginger paste",
+                        "quantity": "1 tablespoon"
+                    },
+                    {
+                        "name": "garlic paste",
+                        "quantity": "1 tablespoon"
+                    },
+                    {
+                        "name": "green chilies, slit",
+                        "quantity": "2"
+                    },
+                    {
+                        "name": "turmeric powder",
+                        "quantity": "1 teaspoon"
+                    },
+                    {
+                        "name": "cumin powder",
+                        "quantity": "1 teaspoon"
+                    },
+                    {
+                        "name": "coriander powder",
+                        "quantity": "1 teaspoon"
+                    },
+                    {
+                        "name": "chili powder",
+                        "quantity": "1 teaspoon"
+                    },
+                    {
+                        "name": "salt",
+                        "quantity": "1 teaspoon (or to taste)"
+                    },
+                    {
+                        "name": "water",
+                        "quantity": "1 cup"
+                    },
+                    {
+                        "name": "fresh coriander leaves, chopped",
+                        "quantity": "2 tablespoons"
+                    }
+                ],
+                "cooking_method": [
+                    "In a large pot or wok, heat the oil over medium-high heat. Add the chopped onion and fry until golden brown, stirring occasionally. Add the ginger paste, garlic paste, and slit green chilies to the pot and fry for another 1-2 minutes, or until fragrant. Add the chicken pieces to the pot and stir to coat with the onion and spice mixture. Add the turmeric powder, cumin powder, coriander powder, chili powder, and salt to the pot and stir well to combine. Pour in the water and bring the curry to a boil. Reduce the heat to low and simmer for 30-35 minutes, or until the chicken is cooked through and the sauce has thickened. Garnish with chopped fresh coriander leaves before serving. Serve hot with steamed rice or flatbread."
+                ]
+            },
+            {
+                "name": "Chicken Curry",
+                "rating": 4.5,
+                "recipe_url": "https://media.istockphoto.com/id/1270641906/photo/french-food-chicken-baked-with-olives-tomatoes-and-onions-herbs-close-up-in-a-frying-pan.jpg?s=2048x2048&w=is&k=20&c=sVoZAvcy3_0WRwgkmMEF8JEdTTky3QZHYY4rMNVcH80=",
+                "ingredients": [
+                    {
+                        "name": "chicken pieces",
+                        "quantity": "1 kg"
+                    },
+                    {
+                        "name": "vegetable oil",
+                        "quantity": "3 tablespoons"
+                    },
+                    {
+                        "name": "onion, finely chopped",
+                        "quantity": "1"
+                    },
+                    {
+                        "name": "ginger paste",
+                        "quantity": "1 tablespoon"
+                    },
+                    {
+                        "name": "garlic paste",
+                        "quantity": "1 tablespoon"
+                    },
+                    {
+                        "name": "green chilies, slit",
+                        "quantity": "2"
+                    },
+                    {
+                        "name": "turmeric powder",
+                        "quantity": "1 teaspoon"
+                    },
+                    {
+                        "name": "cumin powder",
+                        "quantity": "1 teaspoon"
+                    },
+                    {
+                        "name": "coriander powder",
+                        "quantity": "1 teaspoon"
+                    },
+                    {
+                        "name": "chili powder",
+                        "quantity": "1 teaspoon"
+                    },
+                    {
+                        "name": "salt",
+                        "quantity": "1 teaspoon (or to taste)"
+                    },
+                    {
+                        "name": "water",
+                        "quantity": "1 cup"
+                    },
+                    {
+                        "name": "fresh coriander leaves, chopped",
+                        "quantity": "2 tablespoons"
+                    }
+                ],
+                "cooking_method": [
+                    "In a large pot or wok, heat the oil over medium-high heat. Add the chopped onion and fry until golden brown, stirring occasionally. Add the ginger paste, garlic paste, and slit green chilies to the pot and fry for another 1-2 minutes, or until fragrant. Add the chicken pieces to the pot and stir to coat with the onion and spice mixture. Add the turmeric powder, cumin powder, coriander powder, chili powder, and salt to the pot and stir well to combine. Pour in the water and bring the curry to a boil. Reduce the heat to low and simmer for 30-35 minutes, or until the chicken is cooked through and the sauce has thickened. Garnish with chopped fresh coriander leaves before serving. Serve hot with steamed rice or flatbread."
+                ]
+            }
+        ]
     },
     {
         "id": 6,
         "img_url": "https://media.licdn.com/dms/image/C5603AQFYhfbTnMPVHQ/profile-displayphoto-shrink_800_800/0/1621716029075?e=2147483647&v=beta&t=z-_-hsO2d9ubuP16sfQB_s1FZ02g2j01DeGGTmp3nvs",
         "thumbnail_url": "https://media.istockphoto.com/id/508345848/photo/grilled-chicken-legs.jpg?s=2048x2048&w=is&k=20&c=XzSthtc6S6rYDxZRRyrJRWtI3xuGgcfcFTbaL42oaDU=",
         "name": "Dil Afroz Sayda",
-        "years_of_experience": 4,
-        "num_recipes": 40,
-        "rating": 4.4,
+        "years_of_experience": "4 years",
+        "num_recipes": 40,        
         "likes": 700,
         "bio": "Dil Afroz Sayda is a passionate and creative chef who loves to experiment with new flavors and techniques. She draws inspiration from her Bangladeshi heritage to create dishes that are both delicious and nutritious.",
-        "recipe": {
-            "name": "Chicken Curry",
-            "recipe_url": "https://media.istockphoto.com/id/1270641906/photo/french-food-chicken-baked-with-olives-tomatoes-and-onions-herbs-close-up-in-a-frying-pan.jpg?s=2048x2048&w=is&k=20&c=sVoZAvcy3_0WRwgkmMEF8JEdTTky3QZHYY4rMNVcH80=",
-            "ingredients": [
-                {
-                    "name": "chicken pieces",
-                    "quantity": "1 kg"
-                },
-                {
-                    "name": "vegetable oil",
-                    "quantity": "3 tablespoons"
-                },
-                {
-                    "name": "onion, finely chopped",
-                    "quantity": "1"
-                },
-                {
-                    "name": "ginger paste",
-                    "quantity": "1 tablespoon"
-                },
-                {
-                    "name": "garlic paste",
-                    "quantity": "1 tablespoon"
-                },
-                {
-                    "name": "green chilies, slit",
-                    "quantity": "2"
-                },
-                {
-                    "name": "turmeric powder",
-                    "quantity": "1 teaspoon"
-                },
-                {
-                    "name": "cumin powder",
-                    "quantity": "1 teaspoon"
-                },
-                {
-                    "name": "coriander powder",
-                    "quantity": "1 teaspoon"
-                },
-                {
-                    "name": "chili powder",
-                    "quantity": "1 teaspoon"
-                },
-                {
-                    "name": "salt",
-                    "quantity": "1 teaspoon (or to taste)"
-                },
-                {
-                    "name": "water",
-                    "quantity": "1 cup"
-                },
-                {
-                    "name": "fresh coriander leaves, chopped",
-                    "quantity": "2 tablespoons"
-                }
-            ],
-            "cooking_method": [
-                "In a large pot or wok, heat the oil over medium-high heat. Add the chopped onion and fry until golden brown, stirring occasionally.",
-                "Add the ginger paste, garlic paste, and slit green chilies to the pot and fry for another 1-2 minutes, or until fragrant.",
-                "Add the chicken pieces to the pot and stir to coat with the onion and spice mixture.",
-                "Add the turmeric powder, cumin powder, coriander powder, chili powder, and salt to the pot and stir well to combine.",
-                "Pour in the water and bring the curry to a boil. Reduce the heat to low and simmer for 30-35 minutes, or until the chicken is cooked through and the sauce has thickened.",
-                "Garnish with chopped fresh coriander leaves before serving. Serve hot with steamed rice or flatbread."
-            ]
-        }
+        "recipe": [
+            {
+                "name": "Chicken Curry",
+                "rating": 4.5,
+                "recipe_url": "https://media.istockphoto.com/id/1270641906/photo/french-food-chicken-baked-with-olives-tomatoes-and-onions-herbs-close-up-in-a-frying-pan.jpg?s=2048x2048&w=is&k=20&c=sVoZAvcy3_0WRwgkmMEF8JEdTTky3QZHYY4rMNVcH80=",
+                "ingredients": [
+                    {
+                        "name": "chicken pieces",
+                        "quantity": "1 kg"
+                    },
+                    {
+                        "name": "vegetable oil",
+                        "quantity": "3 tablespoons"
+                    },
+                    {
+                        "name": "onion, finely chopped",
+                        "quantity": "1"
+                    },
+                    {
+                        "name": "ginger paste",
+                        "quantity": "1 tablespoon"
+                    },
+                    {
+                        "name": "garlic paste",
+                        "quantity": "1 tablespoon"
+                    },
+                    {
+                        "name": "green chilies, slit",
+                        "quantity": "2"
+                    },
+                    {
+                        "name": "turmeric powder",
+                        "quantity": "1 teaspoon"
+                    },
+                    {
+                        "name": "cumin powder",
+                        "quantity": "1 teaspoon"
+                    },
+                    {
+                        "name": "coriander powder",
+                        "quantity": "1 teaspoon"
+                    },
+                    {
+                        "name": "chili powder",
+                        "quantity": "1 teaspoon"
+                    },
+                    {
+                        "name": "salt",
+                        "quantity": "1 teaspoon (or to taste)"
+                    },
+                    {
+                        "name": "water",
+                        "quantity": "1 cup"
+                    },
+                    {
+                        "name": "fresh coriander leaves, chopped",
+                        "quantity": "2 tablespoons"
+                    }
+                ],
+                "cooking_method": [
+                    "In a large pot or wok, heat the oil over medium-high heat. Add the chopped onion and fry until golden brown, stirring occasionally. Add the ginger paste, garlic paste, and slit green chilies to the pot and fry for another 1-2 minutes, or until fragrant. Add the chicken pieces to the pot and stir to coat with the onion and spice mixture. Add the turmeric powder, cumin powder, coriander powder, chili powder, and salt to the pot and stir well to combine. Pour in the water and bring the curry to a boil. Reduce the heat to low and simmer for 30-35 minutes, or until the chicken is cooked through and the sauce has thickened. Garnish with chopped fresh coriander leaves before serving. Serve hot with steamed rice or flatbread."
+                ]
+            },
+            {
+                "name": "Chicken Curry",
+                "rating": 4.5,
+                "recipe_url": "https://media.istockphoto.com/id/1270641906/photo/french-food-chicken-baked-with-olives-tomatoes-and-onions-herbs-close-up-in-a-frying-pan.jpg?s=2048x2048&w=is&k=20&c=sVoZAvcy3_0WRwgkmMEF8JEdTTky3QZHYY4rMNVcH80=",
+                "ingredients": [
+                    {
+                        "name": "chicken pieces",
+                        "quantity": "1 kg"
+                    },
+                    {
+                        "name": "vegetable oil",
+                        "quantity": "3 tablespoons"
+                    },
+                    {
+                        "name": "onion, finely chopped",
+                        "quantity": "1"
+                    },
+                    {
+                        "name": "ginger paste",
+                        "quantity": "1 tablespoon"
+                    },
+                    {
+                        "name": "garlic paste",
+                        "quantity": "1 tablespoon"
+                    },
+                    {
+                        "name": "green chilies, slit",
+                        "quantity": "2"
+                    },
+                    {
+                        "name": "turmeric powder",
+                        "quantity": "1 teaspoon"
+                    },
+                    {
+                        "name": "cumin powder",
+                        "quantity": "1 teaspoon"
+                    },
+                    {
+                        "name": "coriander powder",
+                        "quantity": "1 teaspoon"
+                    },
+                    {
+                        "name": "chili powder",
+                        "quantity": "1 teaspoon"
+                    },
+                    {
+                        "name": "salt",
+                        "quantity": "1 teaspoon (or to taste)"
+                    },
+                    {
+                        "name": "water",
+                        "quantity": "1 cup"
+                    },
+                    {
+                        "name": "fresh coriander leaves, chopped",
+                        "quantity": "2 tablespoons"
+                    }
+                ],
+                "cooking_method": [
+                    "In a large pot or wok, heat the oil over medium-high heat. Add the chopped onion and fry until golden brown, stirring occasionally. Add the ginger paste, garlic paste, and slit green chilies to the pot and fry for another 1-2 minutes, or until fragrant. Add the chicken pieces to the pot and stir to coat with the onion and spice mixture. Add the turmeric powder, cumin powder, coriander powder, chili powder, and salt to the pot and stir well to combine. Pour in the water and bring the curry to a boil. Reduce the heat to low and simmer for 30-35 minutes, or until the chicken is cooked through and the sauce has thickened. Garnish with chopped fresh coriander leaves before serving. Serve hot with steamed rice or flatbread."
+                ]
+            },
+            {
+                "name": "Chicken Curry",
+                "rating": 4.5,
+                "recipe_url": "https://media.istockphoto.com/id/1270641906/photo/french-food-chicken-baked-with-olives-tomatoes-and-onions-herbs-close-up-in-a-frying-pan.jpg?s=2048x2048&w=is&k=20&c=sVoZAvcy3_0WRwgkmMEF8JEdTTky3QZHYY4rMNVcH80=",
+                "ingredients": [
+                    {
+                        "name": "chicken pieces",
+                        "quantity": "1 kg"
+                    },
+                    {
+                        "name": "vegetable oil",
+                        "quantity": "3 tablespoons"
+                    },
+                    {
+                        "name": "onion, finely chopped",
+                        "quantity": "1"
+                    },
+                    {
+                        "name": "ginger paste",
+                        "quantity": "1 tablespoon"
+                    },
+                    {
+                        "name": "garlic paste",
+                        "quantity": "1 tablespoon"
+                    },
+                    {
+                        "name": "green chilies, slit",
+                        "quantity": "2"
+                    },
+                    {
+                        "name": "turmeric powder",
+                        "quantity": "1 teaspoon"
+                    },
+                    {
+                        "name": "cumin powder",
+                        "quantity": "1 teaspoon"
+                    },
+                    {
+                        "name": "coriander powder",
+                        "quantity": "1 teaspoon"
+                    },
+                    {
+                        "name": "chili powder",
+                        "quantity": "1 teaspoon"
+                    },
+                    {
+                        "name": "salt",
+                        "quantity": "1 teaspoon (or to taste)"
+                    },
+                    {
+                        "name": "water",
+                        "quantity": "1 cup"
+                    },
+                    {
+                        "name": "fresh coriander leaves, chopped",
+                        "quantity": "2 tablespoons"
+                    }
+                ],
+                "cooking_method": [
+                    "In a large pot or wok, heat the oil over medium-high heat. Add the chopped onion and fry until golden brown, stirring occasionally. Add the ginger paste, garlic paste, and slit green chilies to the pot and fry for another 1-2 minutes, or until fragrant. Add the chicken pieces to the pot and stir to coat with the onion and spice mixture. Add the turmeric powder, cumin powder, coriander powder, chili powder, and salt to the pot and stir well to combine. Pour in the water and bring the curry to a boil. Reduce the heat to low and simmer for 30-35 minutes, or until the chicken is cooked through and the sauce has thickened. Garnish with chopped fresh coriander leaves before serving. Serve hot with steamed rice or flatbread."
+                ]
+            }
+        ]
     }
 ]
